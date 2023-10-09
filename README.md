@@ -1,3 +1,3 @@
 # FirstAPI
 
-Small python API experiment
+Small Flask Python API
