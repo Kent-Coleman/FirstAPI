@@ -18,3 +18,6 @@ def request_page():
     json_dump = json.dumps(data_set)
 
     return json_dump
+
+if __name__ == '__main__':
+    app.run() #Specify port to run on
