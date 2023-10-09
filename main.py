@@ -20,4 +20,4 @@ def request_page():
     return json_dump
 
 if __name__ == '__main__':
-    app.run() #Specify port to run on
+    app.run(port=7777) #Specify port to run on
