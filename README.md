@@ -1,3 +1,3 @@
 # FirstAPI
 
-Public python API
+Small python API experiment
